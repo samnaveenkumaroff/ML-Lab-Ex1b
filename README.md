@@ -1,5 +1,5 @@
 # ML-Lab-Ex1b
-DATA PREPROCESSING(To prepare the data suitable for the machine learning model, perform data cleaning, data reduction and data transformation on the given dataset using python implementation.)
+DATA PREPROCESSING (To prepare the data suitable for the machine learning model, perform data cleaning, data reduction and data transformation on the given dataset using python implementation.)
 Here's the updated README file including the new details for Ex. No: 1b DATA PREPROCESSING:
 
 ```
@@ -82,7 +82,7 @@ df = min_max_normalization(df, 'bmi')
 print(df['bmi'])
 ```
 
-## Crafted with Love by Sam Naveenkumar
+## Crafted with Love by Sam Naveenkumar .V
 
 Thank you for visiting the ML-Lab-Ex01 repository. If you have any questions or suggestions, please feel free to raise an issue or contribute to the project.
 ```
